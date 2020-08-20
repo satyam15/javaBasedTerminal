@@ -1,5 +1,5 @@
 # javaBasedTerminal
-******************************************************************SOME COMMANDS ARE NOT APPLICABLE IN OUR TERMINAL**********************************************************
+******************************************************************SOME COMMANDS ARE NOT APPLICABLE IN OUR TERMINAL ONLY LISTED COMMANDS ARE APPLICABLE**********************************************************
 
 
 rChange
